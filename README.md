@@ -10,3 +10,4 @@
 8. upon pulling updates from origin/main into local pc, rebase feature1 onto main before merge feature1 to main and push to origin
 
 in summary, 4 shows conflicts from modifying one file from different sources, while 9 shows no conflicts from modifying two files from different sources
+make changes from main branch
